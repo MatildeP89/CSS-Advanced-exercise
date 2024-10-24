@@ -1,0 +1,38 @@
+div h1{color: fuchsia;}
+
+nav {color: lightcoral;}
+
+
+a.font-weight-bold {background-color: yellow}
+
+div.blog-post:first-of-type {background-color: violet;
+
+}
+
+div.blog-post hr {color: blue; font-size: 100px;}
+
+nav span:nth-of-type(even) {background-color: blueviolet;}
+
+
+div.p-4 ol.mb-0 {background-color: rgb(43, 107, 226);}
+
+
+div.blog-post:nth-of-type(2) p.blog-post-meta a:nth-of-type(1) {color: crimson;}
+
+div.blog-post:last-of-type ul:first-of-type li:nth-child(2) {background-color: pink}
+
+a.float-right.mb-3.mr-3 {font-size: 100px;}
+
+a.btn.btn-outline-secondary.disabled {font-weight: 900;}
+
+footer p a:last-child {background-color: rgb(115, 128, 0);}
+
+
+div.p-4:last-child ol li:nth-of-type(2) {font-size: 30px;}
+
+
+div.jumbotron p.lead a {background-color: fuchsia;}
+
+p.blog-post-meta a {background-color: rgb(139, 79, 0);}
+
+
